@@ -15,11 +15,13 @@ namespace v0512v
         public Form1()
         {
             InitializeComponent();
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.(a)
+            int a = 0;
+            MessageBox.Show(""+(10/a));
         }
     }
 }
